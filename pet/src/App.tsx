@@ -15,7 +15,7 @@ function App() {
         <ExchangeContainer />
       </div>
     </div>
-  );
+  )
 }
 
 export default App;
